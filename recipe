@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html lang="it">
+    <head>
+        <meta charset="utf-8">
+        <title>Il blog di cucina</title>
+    </head>
+    <body>
+        <h1> Le ricette della tradizione </h1>
+        <h2> Pasta alla carbonara</h2>
+        <p>
+            La pasta alla carbonara è una ricetta tradizionale del Lazio.<br/> Sebbene richieda pochi ingredienti, la preparazione può rivelarsi particolamente insidiosa. Richiede infatti grande tecnica e sensibilità nel dosaggio degli ingredienti. <br/>
+            Questa è una ricetta che amo molto. Provate a farla anche voi.
+        </p>
+        
+        <ul> Ingredienti (4 persone):<hr/>
+            
+            <li>Spaghetti 350gr</li> 
+            <li>Guangiale 150gr</li>
+            <li>Pecorino 100gr</li>
+            <li>Uova 4 tuorli</li>
+            <li>Pepe</li>
+        <hr/>
+        <p>
+          Seguite la seguente procedura:
+        </p>
+        <ol>
+            <li>Mettete sul fuoco una pentola contenente abbondante acqua che, a bollore, salerete moderatamente, in considerazione del fatto che la pasta ha già un condimento molto sapido a base di pancetta e pecorino</li>
+            <li>Nel frattempo tagliate il guanciale in dadini o listarelle, mettetelo in un tegame antiaderente, senza l’aggiunta d’olio e lasciatelo sul fuoco fino a quando il grasso diventerà trasparente e leggermente croccante, quindi togliete dal fuoco e lasciate intiepidire leggermente. </li>
+            <li>Rompete le uova in una ciotola, sbattetele. Unite il pecorino ed il pepe, secondo il proprio gusto. Mescolate per bene il tutto aiutandovi con una frusta fino ad ottenere un composto omogeneo.</li>
+            <li>Mettete a cuocere la pasta.</li>
+            <li>Unite il guanciale al composto.</li>
+            <li>Quando la pasta sarà pronta, senza saltarla sul fuoco, scolatela, versatela nella ciotola e amalgamatela unitamente alla salsa precedentemente preparata.</li>
+            <li>Servite gli spaghetti alla carbonara immediatamente e, all'occorrenza, aggiungete altro pecorino e pepe nero macinato.</li>
+                
+        </ol>.  
+       
+        
+        
+        </ul>
+    </body>
+</html>
